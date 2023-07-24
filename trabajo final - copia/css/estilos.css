@@ -1,0 +1,20 @@
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.collapse {
+    justify-content: center;
+}
+
+.nav-link {
+    color: black;
+    font-size: 19px;
+}
+
+.nav-link2 {
+    color: black;
+}
+
